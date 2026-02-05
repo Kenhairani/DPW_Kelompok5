@@ -1,4 +1,5 @@
 Kelompok 5 DPW
-- Kenhairani Baeha
-- Syifa 'Alin Anufy
-- T. Syarifah Gita Azzahra
+1. Kenhairani Baeha
+2.  Syifa 'Alin Anufy
+3.  T. Syarifah Gita Azzahra
+
