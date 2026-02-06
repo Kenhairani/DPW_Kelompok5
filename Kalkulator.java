@@ -1,12 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author LENOVO
- */
 public class Kalkulator extends javax.swing.JFrame {
     String angka, historyAngka;
     double jumlah, bilangan1 = 0.0;
@@ -841,3 +832,4 @@ public class Kalkulator extends javax.swing.JFrame {
     private javax.swing.JTextField textFieldHasilHistory;
     // End of variables declaration
 }
+
